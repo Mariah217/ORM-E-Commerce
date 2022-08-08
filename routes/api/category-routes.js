@@ -51,8 +51,8 @@ router.put('/:id', async (req, res) => {
       }
     })
 
-    if (!categories){
-      res.status(400).json ({message: 'No category found with this ID'})
+    if (!categories) {
+      res.status(400).json({ message: 'No category found with this ID' })
       return
     }
     res.status(200).json(categories)
@@ -77,8 +77,8 @@ router.delete('/:id', async (req, res) => {
     }
 
     res.status(200).json(categories)
-  } 
-  catch(err){
+  }
+  catch (err) {
     res.status(500).json(err)
   }
 });
