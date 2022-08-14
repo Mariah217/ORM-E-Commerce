@@ -19,7 +19,7 @@ To begin using this application, you will need to install several different libr
 
 ## Usage
 
-<a href = "https://www.youtube.com/watch?v=4uAUmgzjSQM&ab_channel=MariahJohnston"> Click link for video demo</a> <br>
+<a href = "https://www.youtube.com/watch?v=4uAUmgzjSQM&ab_channel=MariahJohnston"> Click link for video demo</a>
 
 ![insomnia screenshot](assets/images/screenshot.PNG)
 
