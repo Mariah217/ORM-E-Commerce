@@ -21,9 +21,6 @@ To begin using this application, you will need to install several different libr
 
 <a href = "https://www.youtube.com/watch?v=Zwo1ZbBnGaM&ab_channel=MariahJohnston"> Click link for video demo</a>
 
-![insomnia screenshot](assets/images/screenshot.PNG)
-
-
 ## Credits
 I take credit for my code (besides the starter code).
 
